@@ -20,8 +20,9 @@ How do the diagrams help you visualize the branch structure?
 
 They show through diagram where exactly the branches parted way. They also show branch heads, and position of current head.
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A new commit is created with two ancestors, each being the latest one in the two concerned branches. The destination branch label is moved to this newly created commit.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
