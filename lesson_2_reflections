@@ -10,6 +10,8 @@ It provides an intermediate space that allows developer to select only those fil
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+Staging can act as a review stage before the changes are actually committed. This will help reduce wrong commits.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
