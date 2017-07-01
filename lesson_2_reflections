@@ -24,5 +24,7 @@ What is the result of merging two branches together? Why do we represent it in t
 
 A new commit is created with two ancestors, each being the latest one in the two concerned branches. The destination branch label is moved to this newly created commit.
 
-What are the pros and cons of Git's automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Pro: Reduces lots of menial task where merge decision is pretty straight-forward
+Con: Automatic merging may not be always correct, or may prompt obvious merge decision. This is because it's not intelligent but more rule based.
