@@ -3,10 +3,9 @@ local?
 
 Ideally, when am not sure if I'll have access to my local computer always or if I need to collaborate with other team members.
 
-Why might you want to always pull changes manually rather than having Git
-automatically stay up-to-date with your remote repository?
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+As it may introduce changes in code base that effects WIP tasks in my local repository. Hence, making work in-efficient for me.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
