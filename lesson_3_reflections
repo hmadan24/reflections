@@ -14,10 +14,9 @@ github location to another. Branches is a way to split commits into different bu
 
 Forks are better to use when you want to create a copy of someone else's github repository with your account.
 
-What is the benefit of having a copy of the last known state of the remote
-stored locally?
+What is the benefit of having a copy of the last known state of the remote stored locally?
 
-    Fill in your answer here
+That allows one merge remote branch and local branch on local computer, before pushing the merged state to Github.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
