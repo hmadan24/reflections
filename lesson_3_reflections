@@ -22,7 +22,6 @@ How would you collaborate without using Git or GitHub?  What would be easier, an
 
 I would probably use a shared drive with a versioning system for code files. Making changes in the master would be easier, but control would become very loose.
 
-When would you want to make changes in a separate branch rather than directly in
-master?  What benefits does each approach have?
+When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
-    Fill in your answer here
+Direct changes when working alone. Through branch when working in team, and would want peer review before affecting changes in master.
